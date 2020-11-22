@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ABHINAV
+Build-Jdk: 11.0.5
+Implementation-Title: library_managment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.java
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/library_managment
+Created-By: Maven Integration for Eclipse
+
