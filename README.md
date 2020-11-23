@@ -34,3 +34,6 @@ __[Jump to Code](https://github.com/sakshigupta265/book_management/tree/master/s
 
 ## Documentation
 For more information about the working of project please go through [Author Documentation](https://github.com/sakshigupta265/book_management/blob/master/Author%20Documentation.md) and [Book Documentation](https://github.com/sakshigupta265/book_management/blob/master/Book%20Documentation.md)
+
+## Want to contribute?
+Please refer to [CONTRIBUTION.md](https://github.com/sakshigupta265/book_management/blob/master/CONTRIBUTION.md)
