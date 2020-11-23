@@ -14,7 +14,7 @@ for the sql script please go through: [library script](https://github.com/sakshi
 
 _* : primary key_
 
-_^ : foriegn key_ 
+_^ : foreign key_ 
 
 ## Structure of Maven Project
 
