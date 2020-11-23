@@ -6,6 +6,6 @@ Sno. | Elements | DataType | Features
 2 | name | char(255) | not null
 3 | email | char(255) | 
 
-[Author Documentation.docx](https://github.com/sakshigupta265/book_management/files/5581749/Author.Documentation.docx)
+![author](https://user-images.githubusercontent.com/54631569/99942979-8c78bf80-2d96-11eb-9186-8a8f9f61fb53.jpg)
 
 _for sql script refer to [library script]()_
