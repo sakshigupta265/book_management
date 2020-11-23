@@ -45,7 +45,7 @@ PATH | MAPPING | BODY: not required
 -----|---------|----------------
 http://localhost:8080/groupByBookDescription/{description} | GET | 
 
-    replace {description} by an integer value
+    replace {description} by an string value
 
 ![groupBookByDescription](https://user-images.githubusercontent.com/54631569/99941096-6dc4f980-2d93-11eb-8788-a3fc70db715c.jpg)
 
@@ -69,7 +69,7 @@ http://localhost:8080/updateBook | PUT | { "book_id": 6 , "title": "Harry Poter 
 
 PATH | MAPPING | BODY: not required 
 -----|---------|----------------
-http://localhost:8080/deleteBook | DELETE | 
+http://localhost:8080/deleteBook/{book_id} | DELETE | 
 
     replace {book_id} by an integer value
 ![deleteBook](https://user-images.githubusercontent.com/54631569/99941305-d0b69080-2d93-11eb-990e-b15f457d4c3c.jpg)
