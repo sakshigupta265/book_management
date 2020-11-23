@@ -1,11 +1,12 @@
  # Book Management 
-A Spring Boot project to manage books and their author details. Using the JPA(Java Persistence API) the books are mapped to their authors and by means of RESTful API's the data in the database can be manipulated as per requirement. 
+A [Spring Boot Application](https://spring.io/guides/gs/spring-boot/) that uses [Hibernate](https://www.tutorialspoint.com/hibernate/index.htm), [JPA](https://www.tutorialspoint.com/jpa/index.htm), [RESTful API's](https://restfulapi.net/) for data management. In this project the contents of a Database 'library' containing two tables 'book' and 'author' are managed.
 
-## Framework Used
-- SPRING BOOT: is an open source Java-based framework used to create a Micro Service. It is developed by Pivotal Team. It is easy to create a stand-alone and production ready spring applications using Spring Boot. Spring Boot contains a comprehensive infrastructure support for developing a micro service and enables you to develop enterprise-ready applications that you can “just run”.
+### Overview of book and author tables
+__Author__
+!(author_table)(https://drive.google.com/drive/folders/1l_qg0NPgLOFc5Up3rJzCcNo6bRFILbMv)
 
-## Software Used
-- Maven: Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. Using maven we can build and manage any Java based project. This tutorial will teach you how to use Maven in your day-to-day life of any project development using Java.
-
-# Interface Used
-- JPA: Java Persistence API is a collection of classes and methods to persistently store the vast amounts of data into a database.
+__Book__
+!(book_table)
+(https://drive.google.com/drive/folders/1l_qg0NPgLOFc5Up3rJzCcNo6bRFILbMv)
+_* : primary key_
+_^ : forign key_ 
