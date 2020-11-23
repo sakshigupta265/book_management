@@ -20,8 +20,18 @@ _^ : foriegn key_
 
 ![structure](https://user-images.githubusercontent.com/54631569/99932793-246aaf00-2d7f-11eb-88b7-9d8588a5e966.jpg)
 
+Run the [main application](https://github.com/sakshigupta265/book_management/blob/master/src/main/java/com/java/Main.java) to start the application.
+
+![main](https://user-images.githubusercontent.com/54631569/99936092-503e6280-2d88-11eb-89c5-b4ad6caeac88.jpg)
+
+![springboot](https://user-images.githubusercontent.com/54631569/99936123-62b89c00-2d88-11eb-8a9b-37d8dfcbdf74.jpg)
+
+After the application has succesfully started, open an API client (like I used [Postman](https://www.postman.com/) here) to make API calls and interact with the application.
+
+![postman](https://user-images.githubusercontent.com/54631569/99936290-ccd14100-2d88-11eb-8fb5-357c2de74f0b.jpg)
+
 ## Documentation
-- For more information about the project please go through the [Documentation]()
+For more information about the project please go through the [Documentation]()
 
 ## Want to contribute?
-See [contibution.md]()
+See [CONTRIBUTION.md](https://github.com/sakshigupta265/book_management/blob/master/CONTRIBUTION.md)
