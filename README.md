@@ -30,8 +30,4 @@ After the application has succesfully started, open an API client (like I used [
 
 ![postman](https://user-images.githubusercontent.com/54631569/99936290-ccd14100-2d88-11eb-8fb5-357c2de74f0b.jpg)
 
-## Documentation
-For more information about the project please go through the [Author Documentation.md](https://github.com/sakshigupta265/book_management/blob/master/Author%20Documentation.md) and [Book Documentation.md](https://github.com/sakshigupta265/book_management/blob/master/Book%20Documentation.md)
-
-## Want to contribute?
-See [CONTRIBUTION.md](https://github.com/sakshigupta265/book_management/blob/master/CONTRIBUTION.md)
+__[Jump to Code](https://github.com/sakshigupta265/book_management/tree/master/src/main/java/com/java)__
