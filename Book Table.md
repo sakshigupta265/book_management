@@ -10,4 +10,4 @@ Sno. | Elements | DataType | Features
 
 ![book](https://user-images.githubusercontent.com/54631569/99943314-1a54aa80-2d97-11eb-814c-996d8f332e6d.jpg)
 
-_for sql script refer to [library script]()_
+_for sql script refer to [library script](https://github.com/sakshigupta265/book_management/blob/master/library.sql)_
