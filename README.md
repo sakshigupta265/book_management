@@ -10,7 +10,7 @@ __[Book](https://github.com/sakshigupta265/book_management/blob/master/Book%20Do
 
 ![book db](https://user-images.githubusercontent.com/54631569/99931010-07cb7880-2d79-11eb-8036-6d2c87ab5ef1.jpg)
 
-for the sql script please go through: [library script]()
+for the sql script please go through: [library script](https://github.com/sakshigupta265/book_management/blob/master/library.sql)
 
 _* : primary key_
 
