@@ -31,3 +31,6 @@ After the application has succesfully started, open an API client (like I used [
 ![postman](https://user-images.githubusercontent.com/54631569/99936290-ccd14100-2d88-11eb-8fb5-357c2de74f0b.jpg)
 
 __[Jump to Code](https://github.com/sakshigupta265/book_management/tree/master/src/main/java/com/java)__
+
+## Documentation
+For more information about the working of project please go through [Author Documentation](https://github.com/sakshigupta265/book_management/blob/master/Author%20Documentation.md) and [Book Documentation](https://github.com/sakshigupta265/book_management/blob/master/Book%20Documentation.md)
