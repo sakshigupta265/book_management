@@ -3,7 +3,7 @@ A [Spring Boot Application](https://spring.io/guides/gs/spring-boot/) that uses 
 
 ### Overview of book and author tables
 __Author__
-!(author_table)(https://drive.google.com/drive/folders/1l_qg0NPgLOFc5Up3rJzCcNo6bRFILbMv)
+!(author_table)(C:\Users\ABHINAV\Desktop\Documentation\author db.jpg)
 
 __Book__
 !(book_table)
