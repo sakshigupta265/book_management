@@ -30,4 +30,4 @@ You can refer to [this example](http://stackoverflow.com/q/12488905/180626) of a
 
 ## Project Overview
 Checkout [README.md](https://github.com/sakshigupta265/book_management/blob/master/README.md)
-## Thanks in advance! :)
+## Thanks in advance! :smile:
