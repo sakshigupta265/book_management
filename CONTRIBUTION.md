@@ -16,7 +16,7 @@ I would love to accept your contribution towards this project. I want to make co
 6. Issue that pull request!
 
 ## Found a Bug?
-Write a bug report with detail, background, and sample code.
+Submit a bug report with detail, background, and sample code.
 You can refer to [this example](http://stackoverflow.com/q/12488905/180626) of a bug report or [another example from Craig Hockenberry](http://www.openradar.me/11905408).
 
 **Great Bug Reports** tend to have:
@@ -28,4 +28,6 @@ You can refer to [this example](http://stackoverflow.com/q/12488905/180626) of a
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
+## Project Overview
+Checkout [README.md](https://github.com/sakshigupta265/book_management/blob/master/README.md)
 ## Thanks in advance! :)
