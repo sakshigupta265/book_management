@@ -35,7 +35,7 @@ http://localhost:8080/updateAuthor | PUT | { "author_id": 8 , "name":"Jerome K J
 
 ![updateAuthor](https://user-images.githubusercontent.com/54631569/99939431-09546b00-2d90-11eb-98d1-430200f7074d.jpg)
 
-* deleteAutho/{author_id}: used to delete details of author by author_id
+* deleteAuthor/{author_id}: used to delete details of author by author_id
 
 PATH | MAPPING | BODY: not required 
 -----|---------|----------------
