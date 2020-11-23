@@ -5,8 +5,7 @@
 
 PATH | MAPPING | BODY: raw-JSON 
 -----|---------|----------------
-http://localhost:8080/addAuthor | POST | {"name": "J.K Rowling",
-“email_id”:”jkrowling@writers.com"}
+http://localhost:8080/addAuthor | POST | { "name": "J.K Rowling" , “email_id”:”jkrowling@writers.com" }
 
 
 
