@@ -31,7 +31,7 @@ http://localhost:8080/getAllAuthors | GET |
 
 PATH | MAPPING | BODY: raw-JSON
 -----|---------|----------------
-http://localhost:8080/updateAuthor | PUT | { "author_id": 8, "name": "Jerome K Jerome", "email_id": "jkj@writer.com" }
+http://localhost:8080/updateAuthor | PUT | { "author_id": 8, "name":"Jerome K Jerome", "email_id":"jkj@writer.com" }
 
 ![updateAuthor](https://user-images.githubusercontent.com/54631569/99939431-09546b00-2d90-11eb-98d1-430200f7074d.jpg)
 
