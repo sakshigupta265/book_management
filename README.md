@@ -20,7 +20,7 @@ _^ : foriegn key_
 
 ![structure](https://user-images.githubusercontent.com/54631569/99932793-246aaf00-2d7f-11eb-88b7-9d8588a5e966.jpg)
 
-Run [main.java](https://github.com/sakshigupta265/book_management/blob/master/src/main/java/com/java/Main.java) file to start the application.
+Run [Main.java](https://github.com/sakshigupta265/book_management/blob/master/src/main/java/com/java/Main.java) file to start the application.
 
 ![main](https://user-images.githubusercontent.com/54631569/99936092-503e6280-2d88-11eb-89c5-b4ad6caeac88.jpg)
 
