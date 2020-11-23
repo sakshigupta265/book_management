@@ -4,11 +4,11 @@
 * addAuthor: used to create new author
 
 PATH | MAPPING | BODY: raw-JSON 
------------------------------------------
+-----|---------|----------------
 http://localhost:8080/addAuthor | POST | {
-        "name": "J.K Rowling",
-   “email_id”:”jkrowling@writers.com”
-}
+                                                 "name": "J.K Rowling",
+                                                 “email_id”:”jkrowling@writers.com”
+                                           }
 
 
 
