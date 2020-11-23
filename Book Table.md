@@ -6,7 +6,7 @@ Sno. | Elements | DataType | Features
 2 | title | char(255) | not null
 3 | description | char(255) | 
 4 | published | date | 
-5 | author_id | int | foreign key
+5 | author_id | int | foreign key 
 
 ![book](https://user-images.githubusercontent.com/54631569/99943314-1a54aa80-2d97-11eb-814c-996d8f332e6d.jpg)
 
