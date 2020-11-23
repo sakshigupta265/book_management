@@ -17,7 +17,7 @@ I would love to accept your contribution towards this project. I want to make co
 
 ## Found a Bug?
 Submit a bug report with detail, background, and sample code.
-You can refer to [this example](http://stackoverflow.com/q/12488905/180626) of a bug report or [another example from Craig Hockenberry](http://www.openradar.me/11905408).
+You can refer to [this example](http://www.openradar.me/11905408) from Craig Hockenberry.
 
 **Great Bug Reports** tend to have:
 - A quick summary and/or background
